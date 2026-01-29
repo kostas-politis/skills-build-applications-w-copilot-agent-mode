@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="OctoFit">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0d6efd" />
+      <stop offset="100%" stop-color="#20c997" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="10" fill="#fff" />
+  <g transform="translate(8,8)">
+    <circle cx="24" cy="24" r="18" fill="url(#g)" />
+    <path d="M24 14c-5 0-9 4-9 9s4 9 9 9 9-4 9-9-4-9-9-9zm0 4a5 5 0 110 10 5 5 0 010-10z" fill="#fff" opacity="0.95"/>
+  </g>
+</svg>
